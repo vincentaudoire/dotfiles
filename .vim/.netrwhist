@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Vincent/Documents/Number26_iOS/N26Modules/N26Settings/Example'
+let g:netrw_dirhist_2='/Users/Vincent/Documents/Number26_iOS/N26Modules/N26Settings/Example/N26Settings'
+let g:netrw_dirhist_3='/Users/Vincent/Documents/Number26_iOS/N26Modules/N26Settings/Example'
+let g:netrw_dirhist_4='/Users/Vincent/Documents/Number26_iOS/N26Modules/N26Settings'
+let g:netrw_dirhist_5='/Users/Vincent/Documents/Number26_iOS/N26Modules/N26Settings/N26Settings'
+let g:netrw_dirhist_6='/Users/Vincent/Documents/Number26_iOS/N26Modules/N26Settings/N26Settings/Change Password'
